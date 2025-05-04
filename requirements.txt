@@ -3,4 +3,6 @@ plotly
 pandas
 numpy
 leafmap
+openpyxl
+xlsxwriter
 st-gsheets-connection
