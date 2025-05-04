@@ -6,6 +6,8 @@ import plotly.graph_objects as go
 from io import BytesIO
 import os
 import glob
+import openpyxl
+import xlsxwriter
 
 # Konfigurasi halaman
 st.set_page_config(
